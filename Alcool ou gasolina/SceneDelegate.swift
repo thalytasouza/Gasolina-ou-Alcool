@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  Alcool ou gasolina
-//
-//  Created by inChurch App on 04/09/23.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {

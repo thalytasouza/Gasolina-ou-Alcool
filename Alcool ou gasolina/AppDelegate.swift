@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Alcool ou gasolina
-//
-//  Created by inChurch App on 04/09/23.
-//
-
 import UIKit
 
 @main
